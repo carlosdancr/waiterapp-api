@@ -11,8 +11,6 @@ Funcionalidades principais:
 
 ## 🚀 Tecnologias Utilizadas
 
-- React
-- React Native
 - Node.js
 - Express
 - TypeScript
